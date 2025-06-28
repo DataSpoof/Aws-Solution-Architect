@@ -1,0 +1,31 @@
+# Create
+{
+    "operation": "create",
+    "id": "1",
+    "name": "John Doe",
+    "age": 30
+}
+
+
+# read
+{
+    "operation": "read",
+    "id": "1"
+}
+
+
+# update
+{
+    "operation": "update",
+    "id": "1",
+    "name": "Jane Doe",
+    "age": 32
+}
+
+# delete
+{
+    "operation": "delete",
+    "id": "1"
+}
+
+
